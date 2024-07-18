@@ -12,7 +12,7 @@ updates:
       interval: "weekly"
 
   - package-ecosystem: "npm"
-    # Files stored in `app` directory
+    # Files stored in root directory
     directory: "/"
     schedule:
       interval: "daily"
